@@ -172,7 +172,6 @@ if __name__ == "__main__":
     save_path = os.path.join("snapshots", opt.task_name)
     os.makedirs(save_path, exist_ok=True)
 
-    # saving test images at user specified intervals
     for epoch in range(1, opt.epoch + 1):
         train_log = open(log_file, "a")
         train(train_loader, test_loader, model, optimizer, criterion, epoch)
