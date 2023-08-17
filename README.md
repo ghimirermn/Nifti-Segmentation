@@ -19,6 +19,7 @@ The network assumes the following dataset format:
 - [x] Parameter Logging
 - [x] Tensorboard Logging
 - [x] Test Outputs Saved at User Interval
+- [x] Inference using model weight on user data 
 
 ## Description
 
