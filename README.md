@@ -21,6 +21,23 @@ The network assumes the following dataset format:
 - [x] Test Outputs Saved at User Interval
 - [x] Inference using model weight on User data 
 
+## Sample Result
+
+Here is a sample segmentation result:
+
+### Ground Truth and Model Prediction
+
+<table>
+  <tr>
+    <td>Ground Truth</td>
+    <td>Model Prediction</td>
+  </tr>
+  <tr>
+    <td><img src="[path/to/ground_truth.png](https://github.com/ghimirermn/Nifti-Segmentation/blob/master/gt.png)" alt="Ground Truth" width="400"/></td>
+    <td><img src="[path/to/prediction.png](https://github.com/ghimirermn/Nifti-Segmentation/blob/master/result.png)" alt="Model Prediction" width="400"/></td>
+  </tr>
+</table>
+
 ## Description
 
 Nifti-Segmentation is a powerful tool for performing 3D segmentation on medical imaging data. It is based on the Vnet architecture and built using PyTorch. The model works with the Nifti dataset format (.nii.gz) and takes advantage of the MONAI library for the VNet architecture as well as the Dice loss and metrics.
