@@ -32,7 +32,7 @@ Here is a sample segmentation result:
   </tr>
   <tr>
     <td><img src="https://github.com/ghimirermn/Nifti-Segmentation/blob/master/gt.png" alt="Ground Truth" width="400"/></td>
-    <td><img src="https://github.com/ghimirermn/Nifti-Segmentation/blob/master/result.png" alt="Model Prediction" width="400"/></td>
+    <td><img src="https://github.com/ghimirermn/Nifti-Segmentation/blob/master/result.png" alt="Model Prediction" width="200"/></td>
   </tr>
 </table>
 
