@@ -25,8 +25,6 @@ The network assumes the following dataset format:
 
 Here is a sample segmentation result:
 
-### Image and Model Prediction
-
 <table>
   <tr>
     <td>Image</td>
