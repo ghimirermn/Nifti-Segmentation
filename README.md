@@ -25,11 +25,11 @@ The network assumes the following dataset format:
 
 Here is a sample segmentation result:
 
-### Ground Truth and Model Prediction
+### Image and Model Prediction
 
 <table>
   <tr>
-    <td>Ground Truth</td>
+    <td>Image</td>
     <td>Model Prediction</td>
   </tr>
   <tr>
